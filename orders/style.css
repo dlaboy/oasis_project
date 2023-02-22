@@ -1,0 +1,56 @@
+/* 
+    font-family: 'Homemade Apple', cursive;
+
+    font-family: 'Josefin Sans', sans-serif;
+
+    font-family: 'Raleway', sans-serif; */
+
+
+
+
+.nave{
+    width: 100vw;
+}
+.logo{
+    height: 4rem;
+    width: 4rem;
+
+    
+}
+body{
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 500;
+    height: 80vh;
+    background: linear-gradient(rgb(0, 0, 0) ,transparent),url("img/rollitos.jpg");
+    /* background-color: beige; */
+    background-size: cover;
+    background-repeat: repeat-y;
+    background-position: center;
+    color: beige;
+
+    
+}
+
+.welcome{
+    min-height: 65vh;
+    /* background: linear-gradient(rgb(33, 33, 33),transparent);  */
+    /* background-color: white; */
+    background-size: cover;
+    background-repeat: no-repeat;
+  
+}
+
+h1, p , h3, h4{
+    color: beige;
+}
+
+h1{
+    font-size: 3rem;
+}
+p{
+    font-weight: 300;
+}
+.ima{
+    height: 1.5rem;
+
+}

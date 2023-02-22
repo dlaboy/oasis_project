@@ -1,0 +1,39 @@
+/* 
+    font-family: 'Homemade Apple', cursive;
+
+    font-family: 'Josefin Sans', sans-serif;
+
+    font-family: 'Raleway', sans-serif; */
+    .bo{
+        background: beige;
+    }
+    .logo{
+        height: 7rem;
+    
+        
+    }
+    .nav-section{
+        height: 15vh;
+        width: 100vw;
+    }
+  
+    .conta{
+        
+        height: 70vh;
+     
+    }
+    .fecha{
+        height: 45vh;
+        width: 100vw;
+    
+    
+    }
+    .number{
+        margin: 2rem;
+    }
+    .bin{
+        height: 2rem;
+    }
+ 
+    
+    

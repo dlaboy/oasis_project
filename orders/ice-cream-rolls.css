@@ -1,0 +1,54 @@
+.nave{
+    width: 100vw;
+}
+.logo{
+    height: 4rem;
+    width: 4rem;
+
+    
+}
+.ima{
+    height: 1.5rem;
+
+}
+
+body{
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 500;
+    height: 100vh;
+    background-color: black;
+    background-size: cover;
+    background-repeat: repeat-y;
+    background-position: center;
+
+    
+}
+.conta{
+    background-color: black;
+    /* color: beige; */
+    width: 95%;
+    height: 100%;
+}
+
+.nuevo{
+    color: beige;
+
+
+}
+.rosa{
+    background-color: rgb(252, 65, 99);
+    color: bisque;
+}
+.rosa:hover{
+    background-color: rgb(246, 127, 149);
+    color: bisque;
+
+
+
+}
+.tab{
+    background-color: white;
+    color: black;
+    width: 95%;
+    min-height: 40vh;
+}
